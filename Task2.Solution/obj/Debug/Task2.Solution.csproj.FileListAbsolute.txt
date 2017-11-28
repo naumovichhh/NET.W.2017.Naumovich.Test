@@ -1,0 +1,17 @@
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\bin\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\bin\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task2.Solution\obj\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\bin\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\bin\Debug\Task2.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task2.Solution\obj\Debug\Task2.Solution.pdb
+E:\Учёба\epam\NET.W.2017.Naumovich.Test\Task2.Solution\bin\Debug\Task2.Solution.dll
+E:\Учёба\epam\NET.W.2017.Naumovich.Test\Task2.Solution\bin\Debug\Task2.Solution.pdb
+E:\Учёба\epam\NET.W.2017.Naumovich.Test\Task2.Solution\obj\Debug\Task2.Solution.csprojResolveAssemblyReference.cache
+E:\Учёба\epam\NET.W.2017.Naumovich.Test\Task2.Solution\obj\Debug\Task2.Solution.dll
+E:\Учёба\epam\NET.W.2017.Naumovich.Test\Task2.Solution\obj\Debug\Task2.Solution.pdb
